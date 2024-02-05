@@ -12,9 +12,6 @@
             Console.WriteLine("Test Git5!");   
             Console.WriteLine("Test Git6!");
             Console.WriteLine("Test Git7!");
-
-
-
         }
     }
 }
